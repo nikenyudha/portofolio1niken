@@ -33,6 +33,7 @@ There are different variables in the dataset, described below:
 
 This project is done in a team with members:
 
-M.Ali Ma'sum
-Niken Larasati W
-Meliana R
+* M.Ali Ma'sum
+* Meliana R
+* Niken Larasati W
+
